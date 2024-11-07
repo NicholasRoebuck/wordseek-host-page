@@ -12,11 +12,11 @@ const App = () => {
         <div className="flex flex-col ">
           <h2 className="text-7xl mb-12 text-center">WordSeek</h2>
           <p className="mt-16">
-            WordSeek is vocabulary learning application designed with the purpose of expanding your lexicon. Along with its practical, user-friendly interface, WordSeek offers its users a large and complex library of words that will be consistantly updated for the remainder of its application life cycle. <br /><br /> Although this application was initially designed for student users, at its core, WordSeek is designed to offer a personalized learning experience for all users. <br /> <br />For retention and understanding, WordSeek offers the Quotable. The Quotable is a feature designed to offer personalization and growth insights during users' vocabulary-learning journey. <br /> <br />This is the "Quick Start" page, so to get started, use the download link below.
-            For other information, please use the website's navigation tray. I hope you enjoy!
+            WordSeek is vocabulary learning application designed with the purpose of expanding your lexicon. Along with its practical, user-friendly interface, WordSeek offers its users a large and complex library of words that will be consistantly updated for the remainder of its application life cycle. <br /><br /> Although this application was initially designed for student users, at its core, WordSeek is designed to offer a personalized learning experience for all users. <br /> <br />For retention and understanding, WordSeek offers the Quotable. The Quotable is a feature designed to offer personalization and growth insights during users' vocabulary-learning journey. <br /> <br />This is the host page for the applicatin, so use the download link below as a quick start. For user information, please use the github link. I hope you enjoy!
             <br />
           </p>
-          <a className=" mt-20 text-center hover:text-zinc-500" href="">Download Here</a>
+          <a href="/app-release.apk" className=" mt-20 text-center hover:text-zinc-500">Download Here</a>
+          <a href="https://github.com/NicholasRoebuck/word-seek-mobileapp" className="text-center hover:text-zinc-500">WordSeek GitHub</a>
         </div>
       </section>
       <Footer/>
