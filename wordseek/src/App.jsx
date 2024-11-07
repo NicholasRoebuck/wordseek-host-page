@@ -16,7 +16,7 @@ const App = () => {
             <br />
           </p>
           <a href="/wordseek-host-page/app-release.apk" className=" mt-20 text-center hover:text-zinc-500">Download Here</a>
-          <a href="https://github.com/NicholasRoebuck/word-seek-mobileapp" className="text-center hover:text-zinc-500">WordSeek GitHub</a>
+          <a href="https://github.com/NicholasRoebuck/wordseek-host-page" className="text-center hover:text-zinc-500">WordSeek GitHub</a>
         </div>
       </section>
       <Footer/>
