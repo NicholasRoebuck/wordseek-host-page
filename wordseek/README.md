@@ -1,2 +1,2 @@
-# Simple Webpage in React + Vite to host my mobile app
+# Simple Webpage using React + Vite to host my mobile app
 
